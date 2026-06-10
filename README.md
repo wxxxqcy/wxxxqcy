@@ -17,6 +17,9 @@
 - Vue3 / 前端开发
 - 大语言模型应用
 - RAG / AI Agent 学习中
+
+- 当前项目是轻量级 AI 问答 MVP，后续可扩展为 LangChain + PostgreSQL + pgvector 的 RAG 知识库系统。
+
 --------------------
 ### AI 学管助手
 
