@@ -141,6 +141,6 @@
 ---
 
 ## 📫 Contact
-
+- wechat：www_bbo_
 - GitHub: [wxxxqcy](https://github.com/wxxxqcy)
 - 求职方向：**AI 应用产品经理 / Agent 产品经理**
